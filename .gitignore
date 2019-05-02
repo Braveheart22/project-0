@@ -9,3 +9,4 @@
 /captures
 .externalNativeBuild
 *.bak
+/bootstrap-4.3.1
